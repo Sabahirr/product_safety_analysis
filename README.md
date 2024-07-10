@@ -1,7 +1,7 @@
 # 📊  Product Safety Analysis
 
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-v1.0.0-brightgreen.svg)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-v1.36.0-brightgreen.svg)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 
 ## 📝 Overview
