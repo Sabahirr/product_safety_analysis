@@ -15,7 +15,6 @@ Welcome to the **Product Safety Analysis** application! This Streamlit app provi
 - [Usage](#-usage)
 - [Features](#-features)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Contact](#-contact)
 
 ## 🛠️ Installation
