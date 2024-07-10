@@ -68,7 +68,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## 📬 Contact
 
-For any questions or issues, please contact Sabahir at [sebahirferzeliyev@.com].
+For any questions or issues, please contact Sabahir at [sebahirferzeliyev@gmail.com].
 
 ---
 
